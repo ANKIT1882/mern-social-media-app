@@ -17,8 +17,8 @@ A full-featured social media application built with the MERN stack (MongoDB, Exp
 5. View posts with comments and likes
 
 # Tech Stack
-# Frontend: React, Redux, Axios
-# Backend: Node.js, Express.js
-# Database: MongoDB
-# Authentication: JWT, bcryptjs
+1. Frontend: React, Redux, Axios
+2. Backend: Node.js, Express.js
+3. Database: MongoDB
+4. Authentication: JWT, bcryptjs
  
